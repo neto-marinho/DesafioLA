@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem 'rspec', '3.11'
+gem 'httparty', '0.20.0'
+gem 'openssl', '3.0'
+gem 'allure-cucumber', '2.18'

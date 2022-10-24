@@ -1,0 +1,14 @@
+{
+  "name": "testfront",
+  "version": "1.0.0",
+  "description": "Desafio front-end Liga Agil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marinho S. Neto",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
